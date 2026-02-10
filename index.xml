@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+<journal-meta>
+<journal-id></journal-id>
+
+<journal-title-group>
+</journal-title-group>
+<issn></issn>
+
+<publisher>
+<publisher-name></publisher-name>
+</publisher>
+</journal-meta>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>Autopesquisa: Relatório de 2026</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-9165-9438</contrib-id>
+<name>
+<surname>Santana</surname>
+<given-names>Eduardo</given-names>
+</name>
+<string-name>Eduardo Santana</string-name>
+
+<email>eduardo@editares.org</email>
+<role>Soluções Tecnológicas</role>
+<role>Diagramador</role>
+<role>Técnico de Transmissão</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="aff-2">b</xref>
+<xref ref-type="aff" rid="aff-3">c</xref>
+<xref ref-type="aff" rid="aff-4">d</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>EDITARES</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-2">
+<institution-wrap>
+<institution>HOLOMEMÓRIA</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-3">
+<institution-wrap>
+<institution>IIPC</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-4">
+<institution-wrap>
+<institution>ISIC</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1">eduardo@editares.org</corresp>
+</author-notes>
+
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-02-10">
+<year>2026</year>
+<month>2</month>
+<day>10</day>
+</pub-date>
+
+
+
+
+
+
+
+<history></history>
+
+
+<abstract>
+<p>This report contains my self-research related to conscienciology
+volunteer work.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Voluntariado</kwd>
+<kwd>Conscienciologia</kwd>
+<kwd>Autogestão</kwd>
+<kwd>Relatório</kwd>
+</kwd-group>
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="introdução">
+  <title>1. Introdução</title>
+  <p>Este relatório representa a autopesquisa realizada pelo autor
+  durante o ano de 2026.<xref ref-type="fn" rid="fn1">1</xref></p>
+  <p>A motivação desta pesquisa é ter criado os meus instrumentos de
+  Autopesquisa para agilizar os novos registros e análises futuras,
+  utilizando tecnologias modernas que eu esteja confortável em
+  utilizar.</p>
+</sec>
+</body>
+
+<back>
+<fn-group>
+  <fn id="fn1">
+    <label>1</label><p>O relatório de 2025 está publicado em
+    <ext-link ext-link-type="uri" xlink:href="https://edusantana.github.io/autopesquisa-voluntariado-relatorio-2025/">https://edusantana.github.io/autopesquisa-voluntariado-relatorio-2025/</ext-link>.</p>
+  </fn>
+</fn-group>
+</back>
+
+
+
+</article>
