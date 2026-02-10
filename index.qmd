@@ -1,0 +1,48 @@
+---
+title: "Autopesquisa: Relatório de 2026"
+author:
+  - name: Eduardo Santana
+    orcid: 0000-0002-9165-9438
+    corresponding: true
+    email: eduardo@editares.org
+    roles:
+      - Soluções Tecnológicas
+      - Diagramador
+      - Técnico de Transmissão
+    affiliations:
+      - EDITARES
+      - HOLOMEMÓRIA
+      - IIPC
+      - ISIC
+      
+keywords:
+  - Voluntariado
+  - Conscienciologia
+  - Autogestão
+  - Relatório
+abstract: |
+  This report contains my self-research related to conscienciology volunteer work.
+plain-language-summary: |
+  Este relatório apresenta minha autopesquisa realizada a partir das atividades do voluntariado na conscienciologia.
+key-points:
+  - Autogestão do voluntariado
+  - Recins
+  - Recéxis
+date: last-modified
+lang: pt-BR
+bibliography: references.bib
+number-sections: true
+# doi: 10.5281/zenodo.18595104
+site-url: "https://edusantana.github.io/autopesquisa-relatorio-2026/"
+citation: true
+
+---
+
+# Introdução
+
+Este relatório representa a autopesquisa realizada pelo autor durante o ano de 2026.^[O relatório de 2025 está publicado em [https://edusantana.github.io/autopesquisa-voluntariado-relatorio-2025/](https://edusantana.github.io/autopesquisa-voluntariado-relatorio-2025/).]
+
+
+A motivação desta pesquisa é ter criado os meus instrumentos de Autopesquisa para agilizar os novos registros e análises futuras, utilizando tecnologias modernas que eu esteja confortável em utilizar.
+
+
